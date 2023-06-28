@@ -1,5 +1,5 @@
 <img
-  src="/path/to/avatar.png"
+  src="[/path/to/avatar.png](https://github.com/donjne/donjne/blob/main/avatar.png)"
   alt="my-avatar"
   style="display: inline-block; margin: 0 auto; max-width: 300px">
 
