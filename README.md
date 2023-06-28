@@ -1,3 +1,8 @@
+<img
+  src="/path/to/avatar.png"
+  alt="my-avatar"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
+
 - 👋 Hi, I’m @donjne
 - 👀 I’m interested in programming and application development
 - 🌱 I’m currently learning javascript programming language
