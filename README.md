@@ -35,26 +35,20 @@
         </ul> 
 
   <h2>💻 Skills</h2>
-<a href="#"><img src="https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=4AB197" alt="HTML">
-  <img src="https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=4AB197" alt="CSS">
 <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=4AB197" alt="JavaScript">
-<img src="https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=4AB197" alt="React">
 <img src="https://img.shields.io/badge/Code-Typescript-informational?style=flat&logo=typescript&logoColor=white&color=4AB197" alt="TypeScript">
-<img src="https://img.shields.io/badge/Code-NextJS-informational?style=flat&logo=nextdotjs&logoColor=white&color=4AB197" alt="Next">
 <img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=4AB197" alt="Python">
-<img src="https://img.shields.io/badge/Code-Solidity-informational?style=flat&logo=solidity&logoColor=white&color=4AB197" alt="Solidity">
-<img src="https://img.shields.io/badge/Code-ExpressJS-informational?style=flat&logo=express&logoColor=white&color=4AB197" alt="Express">
+<img src="https://img.shields.io/badge/Code-Rust-informational?style=flat&logo=rusty&logoColor=white&color=4AB197" alt="Rust">
 
 </a>
 
 <details>
   <summary>More Skills</summary>
   <a href="#">
-  <img src="https://img.shields.io/badge/Style-Tailwind-informational?style=flat&logo=Tailwind-CSS&logoColor=white&color=4AB197" alt="Tailwind CSS">
-  <img src="https://img.shields.io/badge/Style-Sass-informational?style=flat&logo=Sass&logoColor=white&color=4AB197" alt="Sass">
-  <img src="https://img.shields.io/badge/Databases-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=4AB197" alt="MongoDB">
-<img src="https://img.shields.io/badge/Code-Firebase-informational?style=flat&logo=firebase&logoColor=white&color=4AB197" alt="Firebase">
-    
+  <img src="https://img.shields.io/badge/Code-Rust-informational?style=flat&logo=rusty&logoColor=white&color=4AB197" alt="Rust">
+  <img src="https://img.shields.io/badge/Code-Rust-informational?style=flat&logo=rusty&logoColor=white&color=4AB197" alt="Rust">
+  <img src="https://img.shields.io/badge/Code-Rust-informational?style=flat&logo=rusty&logoColor=white&color=4AB197" alt="Rust">
+  <img src="https://img.shields.io/badge/Code-Rust-informational?style=flat&logo=rusty&logoColor=white&color=4AB197" alt="Rust">    
   </a>
 </details>
 
