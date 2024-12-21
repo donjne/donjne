@@ -31,7 +31,7 @@ Here’s my current stack—always evolving, always improving:
 ![React](https://img.shields.io/badge/React-%2361DAFB?style=flat-square&logo=react&logoColor=white)  
 ![Next.js](https://img.shields.io/badge/Next.js-%23000000?style=flat-square&logo=next.js&logoColor=white)  
 ![Rust](https://img.shields.io/badge/Rust-%23000000?style=flat-square&logo=rust&logoColor=white)
-![Nest.js](https://img.shields.io/badge/Nest.js-%23339933?style=flat-square&logo=nest.js&logoColor=white)  
+![Node.js](https://img.shields.io/badge/Node.js-%23339933?style=flat-square&logo=node.js&logoColor=white)  
 
 ---
 
