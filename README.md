@@ -17,9 +17,9 @@ I’m all about **building solutions with technology**. Whether it’s **blockch
 Here’s my current stack—always evolving, always improving:  
 
 #### Code I Speak Fluently - I would've shown you only Rust but I can't deny TS and Python
+![Rust](https://img.shields.io/badge/Rust-%23000000?style=flat-square&logo=rust&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat-square&logo=javascript&logoColor=white)  
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC?style=flat-square&logo=typescript&logoColor=white)  
-![Rust](https://img.shields.io/badge/Rust-%23000000?style=flat-square&logo=rust&logoColor=white)  
 ![Python](https://img.shields.io/badge/Python-%233776AB?style=flat-square&logo=python&logoColor=white)  
 
 #### Blockchain  
@@ -31,7 +31,7 @@ Here’s my current stack—always evolving, always improving:
 ![React](https://img.shields.io/badge/React-%2361DAFB?style=flat-square&logo=react&logoColor=white)  
 ![Next.js](https://img.shields.io/badge/Next.js-%23000000?style=flat-square&logo=next.js&logoColor=white)  
 ![Rust](https://img.shields.io/badge/Rust-%23000000?style=flat-square&logo=rust&logoColor=white)
-![Node.js](https://img.shields.io/badge/Nest.js-%23339933?style=flat-square&logo=nest.js&logoColor=white)  
+![Nest.js](https://img.shields.io/badge/Nest.js-%23339933?style=flat-square&logo=nest.js&logoColor=white)  
 
 ---
 
