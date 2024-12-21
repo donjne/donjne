@@ -1,59 +1,55 @@
-<h1 style="font-size-32px">👋🏾 Hello, I’m David</h1>
-  <img src="/avatar.png" alt="my-avatar" style="width: 100px; height: 100px;"> 
-<!--   <a href="https://github.com/donjne">
-  <img src="https://badges.pufler.dev/visits/donjne/donjne" alt="Visits Badge">
-</a> -->
-<a href="https://twitter.com/heisdave7">
-  <img src="https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1" alt="Twitter Badge">
-</a>
-<a href="https://ng.linkedin.com/in/david-n-9356a5232">
-  <img src="https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8" alt="LinkedIn Badge">
-</a>
-<a href="https://medium.com/@davidjrn247">
-  <img src="https://img.shields.io/badge/Medium-Profile-informational?style=flat&logo=medium&logoColor=white&color=black" alt="CodePen Badge">
-</a>
+# 👋🏾 Hey there, I’m David  
 
-  <p style="margin-left: 10px; display: inline;">I am into Software development, Cybersecurity and Technical writing. I am very passionate about building solutions with technology. Some tools and technologies I enjoy working with include HTML, CSS, JavaScript, React.js, Next.js, Node.js, Python, Firebase, MongoDB, Kali Linux...</p>
+<img src="/avatar.png" alt="David's Avatar" width="120" style="border-radius: 50%; border: 2px solid #1CA2F1; margin-bottom: 16px;">  
 
-<h2>📃 Articles</h2>
-        <ul>
-          <p><strong>Cybersecurity Articles and Guides : </strong> https://www.cybertecwiz.com/author/david/
-          </p>
-           <p><strong>Getting Started with Opta : </strong>https://medium.com/codex/getting-started-with-the-opta-iac-framework-a2f60d656784
-          </p>
-        </ul>  
-  <h2>🤝🏾 I'm looking to collaborate or specialize on</h2>
-        <ul>
-          <li> Web development
-          </li>
-           <li>Blockchain development
-          </li>
-           <li>Cybersecurity - Ethical hacking/Penetration Testing
-          </li>
-          <li>Mobile/App development
-          </li>
-        </ul> 
+I’m all about **building solutions with technology**. Whether it’s **blockchain**, **cybersecurity**, or **software development**, I’m here for the real-world impact. I write, build, hack, and sometimes break things (on purpose, of course).  
 
-  <h2>💻 Skills</h2>
-<img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=4AB197" alt="JavaScript">
-<img src="https://img.shields.io/badge/Code-Typescript-informational?style=flat&logo=typescript&logoColor=white&color=4AB197" alt="TypeScript">
-<img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=4AB197" alt="Python">
-<img src="https://img.shields.io/badge/Code-Rust-informational?style=flat&logo=rusty&logoColor=white&color=4AB197" alt="Rust">
+---
 
-</a>
+### 🌟 What I’m Up To  
+- **Blockchain**: Building decentralized apps on Solana with tools like **Anchor**, creating NFT marketplaces, stablecoin systems, and prediction markets.  
+- **Cybersecurity**: Helping people stay one step ahead of threats with **ethical hacking**, penetration testing, and secure protocol design.  
+- **Writing**: Sharing what I learn—check out my guides on **cybersecurity**, **blockchain basics**, and tools like **Opta IaC**.  
 
-<details>
-  <summary>More Skills</summary>
-  <a href="#">
-  <img src="https://img.shields.io/badge/Code-Rust-informational?style=flat&logo=rusty&logoColor=white&color=4AB197" alt="Rust">
-  <img src="https://img.shields.io/badge/Code-Rust-informational?style=flat&logo=rusty&logoColor=white&color=4AB197" alt="Rust">
-  <img src="https://img.shields.io/badge/Code-Rust-informational?style=flat&logo=rusty&logoColor=white&color=4AB197" alt="Rust">
-  <img src="https://img.shields.io/badge/Code-Rust-informational?style=flat&logo=rusty&logoColor=white&color=4AB197" alt="Rust">    
-  </a>
-</details>
+---
 
+### 🛠️ Tech I Work With  
+Here’s my current stack—always evolving, always improving:  
 
-<!---
-donjne/donjne is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+#### Code I Speak Fluently - I would've shown you only Rust but I can't deny TS and Python
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat-square&logo=javascript&logoColor=white)  
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC?style=flat-square&logo=typescript&logoColor=white)  
+![Rust](https://img.shields.io/badge/Rust-%23000000?style=flat-square&logo=rust&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-%233776AB?style=flat-square&logo=python&logoColor=white)  
+
+#### Blockchain  
+![Solana](https://img.shields.io/badge/Solana-%234394F3?style=flat-square&logo=solana&logoColor=white)  
+![Anchor](https://img.shields.io/badge/Anchor-%23141523?style=flat-square&logo=anchor&logoColor=white)  
+![Metaplex](https://img.shields.io/badge/Metaplex-%23FF5555?style=flat-square&logo=nft&logoColor=white)  
+
+#### Web Development  
+![React](https://img.shields.io/badge/React-%2361DAFB?style=flat-square&logo=react&logoColor=white)  
+![Next.js](https://img.shields.io/badge/Next.js-%23000000?style=flat-square&logo=next.js&logoColor=white)  
+![Rust](https://img.shields.io/badge/Rust-%23000000?style=flat-square&logo=rust&logoColor=white)
+![Node.js](https://img.shields.io/badge/Nest.js-%23339933?style=flat-square&logo=nest.js&logoColor=white)  
+
+---
+
+### ✍🏾 Articles I’ve Written  
+I love explaining stuff I’m passionate about. Check these out:  
+
+- [Cybersecurity Guides](https://www.cybertecwiz.com/author/david/)  - Don't check it out, it has been deprecated.
+- [Getting Started with Opta](https://medium.com/codex/getting-started-with-the-opta-iac-framework-a2f60d656784)  
+- More incoming, SOON. Anticipate!
+---
+
+### 🤝🏾 Let’s Build Together  
+If you’re working on something exciting or need a partner in tech crime, hit me up:  
+
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/heisdave7)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://ng.linkedin.com/in/david-n-9356a5232)  
+[![Medium](https://img.shields.io/badge/Medium-%23000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@davidjrn247)  
+
+---
+
+> “Building the future, one solution at a time.”  
