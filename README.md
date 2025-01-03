@@ -1,17 +1,19 @@
+## Because ASCII art is the original meme that needs no compiling.
 ```ascii-art
-     ╭━━━╮╱╱╱╱╱╱╱╱╱╱╭━━━╮
-     ┃╭━╮┃╱╱╱╱╱╱╱╱╱╱┃╭━━╯
-     ┃┃╱┃┣━━┳╮╭┳┳━╮╱┃╰━━╮
-     ┃╰━╯┃╭╮┃╰╯┣┫╭╮╮┃╭━━╯
-     ┃╭━╮┃╰╯┃┃┃┃┃┃┃┃┃┃
-     ╰╯╱╰┻━━┻┻┻┻┻╯╰╯╰╯
+ _____           __ __           \  /
+/  ___\         /  V  \           \/
+/  /   /        /   _   \          /  \
+/  /   /       /  / \   \         /    \
+/  /___/      /__/   \___\           
+\____  /                                      
+     \/                                      
 ```
 
 <div align="center">
 
 ![Visitor Count](https://profile-counter.glitch.me/davidjrn247/count.svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1CA2F1&center=true&vCenter=true&width=435&lines=Blockchain+Architect;Cybersecurity+Specialist;World-class+Problem+Solver;Occasionally+breaks+things...+for+science)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1CA2F1&center=true&vCenter=true&width=435&lines=Blockchain+Architect;Cybersecurity+Specialist;World-class+Problem+Solver;Breaks+things...+for+science)](https://git.io/typing-svg)
 
 </div>
 
@@ -25,7 +27,7 @@
 
 <div align="center">
 
-![David's GitHub Stats](https://github-readme-stats.vercel.app/api?username=davidjrn247&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=1CA2F1&icon_color=1CA2F1&text_color=FFFFFF)
+![David's GitHub Stats](https://github-readme-stats.vercel.app/api?username=donjne&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=1CA2F1&icon_color=1CA2F1&text_color=FFFFFF)
 
 [![GitHub Streak](https://git-hub-streak-stats.vercel.app?user=donjne&theme=slateorange)](https://git.io/streak-stats)
 
@@ -67,7 +69,13 @@ Security      [████████░░] 80%  // Shield generator
 
 ## 🌍 GLOBAL IMPACT METRICS
 <!-- Wakatime stats -->
+<div align="center">
+
+**My Code Odyssey with WakaTime:** **If it didn't display, then my stats must have broken their server**
+
 [![wakatime](https://wakatime.com/badge/user/davejne.svg)](https://wakatime.com/@davejne)
+
+</div>
 
 <div align="center">
 
@@ -78,24 +86,24 @@ Security      [████████░░] 80%  // Shield generator
 ## 🎯 CURRENT SIDE QUESTS
 
 ```diff
-+ Building a quantum-resistant NFT marketplace
-! Developing a time-traveling smart contract (results vary)
-- Teaching my AI to make coffee (still buggy)
-# Breaking things ethically (it's a feature, not a bug)
++ Contributing to open source
+! Taking up a consistency challenge
+- Writing more documentation
+# Working on a product
 ```
 
 ## 🌟 ACHIEVEMENTS UNLOCKED
 
-- 🏆 Successfully deployed code that didn't break production... twice!
-- 🎮 Found a bug so rare it should be in a museum
-- 🚀 Built something that even my grandma uses (she says hi!)
-- 💻 Made an AI cry with my code optimization (it apologized later)
+- 🏆 Deployed 10+ Smart Contracts 
+- 🎮 Fixed a dependency issue for rust crate
+- 🚀 Optimized an open source project built on Solana and performed benchmark tests using criterion
+- 💻 Extending an AI functionalities.
 
-## 🔮 LATEST TRANSMISSIONS
+## 🔮 ARTICLES
 <!-- Blog posts -->
 [![David N Medium](https://github-readme-medium.vercel.app/?username=davidjrn247&limit=3)](https://medium.com/@davidjrn247)
 
-## 🌐 QUANTUM ENTANGLEMENT COORDINATES
+## 🌐 FIND ME SOMEWHERE ELSE
 
 <div align="center">
 
@@ -105,28 +113,15 @@ Security      [████████░░] 80%  // Shield generator
 
 </div>
 
-## 🎵 CURRENT DEPLOYMENT SOUNDTRACK
-<!-- Spotify -->
-[![Spotify](https://novatorem-davidjrn247.vercel.app/api/spotify)](https://open.spotify.com/user/davidjrn247)
-
-<div align="center">
-
-```ascii-art
-END TRANSMISSION...
-...
-...
-REMEMBER: THE CAKE IS A LIE, BUT THE CODE IS REAL
-```
-
-![Snake animation](https://github.com/davidjrn247/davidjrn247/blob/output/github-contribution-grid-snake-dark.svg)
-
 </div>
 
 ---
+## ALL MY BALLON D'OR
 <div align="center">
   
-[![trophy](https://github-profile-trophy.vercel.app/?username=davidjrn247&theme=radical&no-frame=true&no-bg=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=donjne&theme=radical&no-frame=true&no-bg=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
+## A LITTLE BIT OF ASPIRE TO INSPIRE
 > "In a world of 1s and 0s, be the 2."
