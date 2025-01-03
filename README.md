@@ -57,7 +57,8 @@ mindmap
       Protocol Design
 ```
 
-## 🎮 SKILL MATRIX
+## 🎮 SKILL MATRIX 
+### SOURCE: TRUST ME BRO
 <!-- Custom skill bars with gaming-style progress -->
 ```
 Rust          [█████████░] 90%  // Main weapon of choice
