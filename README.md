@@ -1,55 +1,132 @@
-# 👋🏾 Hey there, I’m David  
+```ascii-art
+     ╭━━━╮╱╱╱╱╱╱╱╱╱╱╭━━━╮
+     ┃╭━╮┃╱╱╱╱╱╱╱╱╱╱┃╭━━╯
+     ┃┃╱┃┣━━┳╮╭┳┳━╮╱┃╰━━╮
+     ┃╰━╯┃╭╮┃╰╯┣┫╭╮╮┃╭━━╯
+     ┃╭━╮┃╰╯┃┃┃┃┃┃┃┃┃┃
+     ╰╯╱╰┻━━┻┻┻┻┻╯╰╯╰╯
+```
 
-<img src="/avatar.png" alt="David's Avatar" width="120" style="border-radius: 50%; border: 2px solid #1CA2F1; margin-bottom: 16px;">  
+<div align="center">
 
-I’m all about **building solutions with technology**. Whether it’s **blockchain**, **cybersecurity**, or **software development**, I’m here for the real-world impact. I write, build, hack, and sometimes break things (on purpose, of course).  
+![Visitor Count](https://profile-counter.glitch.me/davidjrn247/count.svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1CA2F1&center=true&vCenter=true&width=435&lines=Blockchain+Architect;Cybersecurity+Specialist;World-class+Problem+Solver;Occasionally+breaks+things...+for+science)](https://git.io/typing-svg)
+
+</div>
+
+## 🌌 TRANSMISSION INCOMING... 
+
+> **`STATUS: DECRYPTING NEURAL PROFILE...`**
+> 
+> **`SUBJECT: DAVID`**
+> 
+> **`CLEARANCE: LEVEL INFINITY`**
+
+<div align="center">
+
+![David's GitHub Stats](https://github-readme-stats.vercel.app/api?username=davidjrn247&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=1CA2F1&icon_color=1CA2F1&text_color=FFFFFF)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=davidjrn247&theme=tokyonight&hide_border=true&background=0D1117&stroke=1CA2F1&ring=1CA2F1&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=777777)](https://git.io/streak-stats)
+
+</div>
+
+## 🧬 TECH DNA SEQUENCE
+
+```mermaid
+mindmap
+  root((David's Tech))
+    Blockchain
+      Solana
+      Anchor
+      Metaplex
+    Languages
+      Rust
+      TypeScript
+      Python
+      JavaScript
+    Web3
+      DApps
+      NFTs
+      Smart Contracts
+    Security
+      Pen Testing
+      Ethical Hacking
+      Protocol Design
+```
+
+## 🎮 SKILL MATRIX
+<!-- Custom skill bars with gaming-style progress -->
+```
+Rust          [█████████░] 90%  // Main weapon of choice
+TypeScript    [████████░░] 80%  // Trusty sidearm
+Python        [███████░░░] 70%  // Utility belt
+Solana        [████████░░] 80%  // Preferred battleground
+Security      [████████░░] 80%  // Shield generator
+```
+
+## 🌍 GLOBAL IMPACT METRICS
+<!-- Wakatime stats -->
+[![wakatime](https://wakatime.com/badge/user/davidjrn247.svg)](https://wakatime.com/@davidjrn247)
+
+<div align="center">
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidjrn247&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=1CA2F1)
+
+</div>
+
+## 🎯 CURRENT SIDE QUESTS
+
+```diff
++ Building a quantum-resistant NFT marketplace
+! Developing a time-traveling smart contract (results vary)
+- Teaching my AI to make coffee (still buggy)
+# Breaking things ethically (it's a feature, not a bug)
+```
+
+## 🌟 ACHIEVEMENTS UNLOCKED
+
+- 🏆 Successfully deployed code that didn't break production... twice!
+- 🎮 Found a bug so rare it should be in a museum
+- 🚀 Built something that even my grandma uses (she says hi!)
+- 💻 Made an AI cry with my code optimization (it apologized later)
+
+## 🔮 LATEST TRANSMISSIONS
+<!-- Blog posts -->
+[![David N Medium](https://github-readme-medium.vercel.app/?username=davidjrn247&limit=3)](https://medium.com/@davidjrn247)
+
+## 🌐 QUANTUM ENTANGLEMENT COORDINATES
+
+<div align="center">
+
+[![Twitter: heisdave7](https://img.shields.io/twitter/follow/heisdave7?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1CA2F1&color=black)](https://twitter.com/heisdave7)
+[![LinkedIn: David N](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=black)](https://ng.linkedin.com/in/david-n-9356a5232)
+[![Medium](https://img.shields.io/badge/MEDIUM-12100E?style=for-the-badge&logo=medium&logoColor=white&color=black)](https://medium.com/@davidjrn247)
+
+</div>
+
+## 🎵 CURRENT DEPLOYMENT SOUNDTRACK
+<!-- Spotify -->
+[![Spotify](https://novatorem-davidjrn247.vercel.app/api/spotify)](https://open.spotify.com/user/davidjrn247)
+
+<div align="center">
+
+```ascii-art
+END TRANSMISSION...
+...
+...
+REMEMBER: THE CAKE IS A LIE, BUT THE CODE IS REAL
+```
+
+![Snake animation](https://github.com/davidjrn247/davidjrn247/blob/output/github-contribution-grid-snake-dark.svg)
+
+</div>
 
 ---
+<div align="center">
+  
+[![trophy](https://github-profile-trophy.vercel.app/?username=davidjrn247&theme=radical&no-frame=true&no-bg=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
-### 🌟 What I’m Up To  
-- **Blockchain**: Building decentralized apps on Solana with tools like **Anchor**, creating NFT marketplaces, stablecoin systems, and prediction markets.  
-- **Cybersecurity**: Helping people stay one step ahead of threats with **ethical hacking**, penetration testing, and secure protocol design.  
-- **Writing**: Sharing what I learn—check out my guides on **cybersecurity**, **blockchain basics**, and tools like **Opta IaC**.  
+</div>
 
----
-
-### 🛠️ Tech I Work With  
-Here’s my current stack—always evolving, always improving:  
-
-#### Code I Speak Fluently - I would've shown you only Rust but I can't deny TS and Python
-![Rust](https://img.shields.io/badge/Rust-%23000000?style=flat-square&logo=rust&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat-square&logo=javascript&logoColor=white)  
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC?style=flat-square&logo=typescript&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-%233776AB?style=flat-square&logo=python&logoColor=white)  
-
-#### Blockchain  
-![Solana](https://img.shields.io/badge/Solana-%234394F3?style=flat-square&logo=solana&logoColor=white)  
-![Anchor](https://img.shields.io/badge/Anchor-%23141523?style=flat-square&logo=anchor&logoColor=white)  
-![Metaplex](https://img.shields.io/badge/Metaplex-%23FF5555?style=flat-square&logo=nft&logoColor=white)  
-
-#### Web Development  
-![React](https://img.shields.io/badge/React-%2361DAFB?style=flat-square&logo=react&logoColor=white)  
-![Next.js](https://img.shields.io/badge/Next.js-%23000000?style=flat-square&logo=next.js&logoColor=white)  
-![Rust](https://img.shields.io/badge/Rust-%23000000?style=flat-square&logo=rust&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-%23339933?style=flat-square&logo=node.js&logoColor=white)  
-
----
-
-### ✍🏾 Articles I’ve Written  
-I love explaining stuff I’m passionate about. Check these out:  
-
-- [Cybersecurity Guides](https://www.cybertecwiz.com/author/david/)  - Don't check it out, it has been deprecated.
-- [Getting Started with Opta](https://medium.com/codex/getting-started-with-the-opta-iac-framework-a2f60d656784)  
-- More incoming, SOON. Anticipate!
----
-
-### 🤝🏾 Let’s Build Together  
-If you’re working on something exciting or need a partner in tech crime, hit me up:  
-
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/heisdave7)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://ng.linkedin.com/in/david-n-9356a5232)  
-[![Medium](https://img.shields.io/badge/Medium-%23000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@davidjrn247)  
-
----
-
-> “Building the future, one solution at a time.”  
+> "In a world of 1s and 0s, be the 2."
