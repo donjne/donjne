@@ -17,9 +17,9 @@
 
 ## 🌌 TRANSMISSION INCOMING... 
 
-> **`STATUS: DECRYPTING NEURAL PROFILE...`**
+> **`STATUS: DECRYPTING PROFILE...`**
 > 
-> **`SUBJECT: DAVID`**
+> **`NAME: DAVID`**
 > 
 > **`CLEARANCE: LEVEL INFINITY`**
 
@@ -27,7 +27,7 @@
 
 ![David's GitHub Stats](https://github-readme-stats.vercel.app/api?username=davidjrn247&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=1CA2F1&icon_color=1CA2F1&text_color=FFFFFF)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=davidjrn247&theme=tokyonight&hide_border=true&background=0D1117&stroke=1CA2F1&ring=1CA2F1&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=777777)](https://git.io/streak-stats)
+[![GitHub Streak](https://git-hub-streak-stats.vercel.app?user=donjne&theme=slateorange)](https://git.io/streak-stats)
 
 </div>
 
@@ -38,17 +38,17 @@ mindmap
   root((David's Tech))
     Blockchain
       Solana
-      Anchor
+      Anchor/Steel
       Metaplex
     Languages
       Rust
       TypeScript
       Python
       JavaScript
-    Web3
-      DApps
-      NFTs
-      Smart Contracts
+    Open Source
+      Reclaim Protocol
+      Chimoney
+      MetaDAO
     Security
       Pen Testing
       Ethical Hacking
@@ -71,7 +71,7 @@ Security      [████████░░] 80%  // Shield generator
 
 <div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidjrn247&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=1CA2F1)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=donjne&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=1CA2F1)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
