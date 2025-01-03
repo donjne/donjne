@@ -67,7 +67,7 @@ Security      [████████░░] 80%  // Shield generator
 
 ## 🌍 GLOBAL IMPACT METRICS
 <!-- Wakatime stats -->
-[![wakatime](https://wakatime.com/badge/user/davidjrn247.svg)](https://wakatime.com/@davidjrn247)
+[![wakatime](https://wakatime.com/badge/user/davejne.svg)](https://wakatime.com/@davejne)
 
 <div align="center">
 
