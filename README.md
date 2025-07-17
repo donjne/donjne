@@ -2,22 +2,13 @@
 
 > "Live as if you were to die tomorrow. Learn as if you were to live forever." - Mahatma Gandhi
 
-<div align="center">
-
-![Visitor Count](https://profile-counter.glitch.me/davidjrn247/count.svg)
-
-![David's GitHub Stats](https://github-readme-stats.vercel.app/api?username=donjne&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=1CA2F1&icon_color=1CA2F1&text_color=FFFFFF)
-
-[![GitHub Streak](https://git-hub-streak-stats.vercel.app?user=donjne&theme=slateorange)](https://git.io/streak-stats)
-
-</div>
+*Living as if we'll die tomorrow means prioritizing what truly matters, showing love, being present for beautiful moments, and stopping the wait for validation/permission to be fully ourselves. Learning as if we'll live forever is about approaching knowledge with patience and curiosity, being willing to be beginners, and recognizing that true understanding develops over decades.*
 
 ## About Me
-<div align="center">
-[![Twitter: heisdave7](https://img.shields.io/twitter/follow/heisdave7?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1CA2F1&color=black)](https://twitter.com/heisdave7)
-[![LinkedIn: David N](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=black)](https://ng.linkedin.com/in/david-n-9356a5232)
-[![Medium](https://img.shields.io/badge/MEDIUM-12100E?style=for-the-badge&logo=medium&logoColor=white&color=black)](https://medium.com/@davidjrn247)
-</div>
+
+[Twitter](https://twitter.com/heisdave7)
+[LinkedIn](https://ng.linkedin.com/in/david-n-9356a5232)
+[Medium](https://medium.com/@davidjrn247)
 
 I'm a 20-year-old engineer excited about exploring the boundaries of technology. My journey began at 16 as a frontend developer, where I learned HTML, CSS, and JavaScript through [Academind](https://academind.com). Since then, I've become proficient with React and Next.js, creating user experiences with animation libraries like Framer Motion, GSAP, and Three.js.
 
