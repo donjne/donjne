@@ -10,15 +10,10 @@
 [LinkedIn](https://ng.linkedin.com/in/david-n-9356a5232)
 [Medium](https://medium.com/@davidjrn247)
 
-I'm a 20-year-old engineer excited about exploring the boundaries of technology. My journey began at 16 as a frontend developer, where I learned HTML, CSS, and JavaScript through [Academind](https://academind.com). Since then, I've become proficient with React and Next.js, creating user experiences with animation libraries like Framer Motion, GSAP, and Three.js.
-
-After working extensively with APIs, I became interested in building my own backend systems, which led me to discover Rust. I was first introduced to Rust in 2022 through courses by [Zero to Mastery](https://youtube.com/@ZeroToMastery) and [Let's Get Rusty](https://youtube.com/@letsgetrusty), which delivered that dopamine hit. Following some frustrating experiences with backend engineers and months of financial instability after turning down JavaScript opportunities, I made the decision to fully transition to backend development with Rust.
-
-In early 2024, I completed the entire Rust Book and Async Rust book, built web servers with Actix Web for a school hackathon, and developed Solana programs with Anchor to compete in various Solana hackathons. Currently, I'm building on Solana as a Superteam member and documenting my Rust journey on [Medium](https://medium.com/@davidjrn247).
-
-**Projects I've contributed to on Solana:**
-- [ARK](https://useark.xyz)
-- [Stable](https://stable.fun)
-- [Chatter](https://usechatter.app)
-- [Light Protocol](https://github.com/Lightprotocol/groth16-solana)
-- [Reclaim Protocol](https://github.com/reclaimprotocol/reclaim-solana-sdk)
+I'm a software engineer excited about improving technology particularly using Rust. Thanks to Rust [Zero to Mastery](https://youtube.com/@ZeroToMastery) and [Let's Get Rusty](https://youtube.com/@letsgetrusty) videos that got me onboarded and hooked some years ago.  Here's a list of what I currently do:
+- Contributing to open source and startups
+- Reading a lot, mostly on Rust. I have read the entire Rust book, Async Rust, Effective Rust, Zero to Production and Computer Design and Architecture by my namesake David!
+- Working as a DevRel at Superteam Nigeria
+- Building personal projects using Rust to practicalize everything I'm learning
+- Documenting my Rust journey on [Medium](https://medium.com/@davidjrn247) -> Follow me!
+- Trying to always get better at this
