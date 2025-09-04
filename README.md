@@ -10,7 +10,7 @@
 
 You can call me Dav, Dave or David.
 
-I'm a software engineer excited about improving technology particularly using Rust. Thanks to Rust [Zero to Mastery](https://youtube.com/@ZeroToMastery) and [Let's Get Rusty](https://youtube.com/@letsgetrusty) videos that got me onboarded and hooked some years ago.  Here's a list of what I currently do:
+I'm a software engineer excited about improving technology particularly using Rust. Thanks to [Zero to Mastery](https://youtube.com/@ZeroToMastery) and [Let's Get Rusty](https://youtube.com/@letsgetrusty) videos that got me onboarded and hooked some years ago.  Here's a list of what I currently do:
 - Contributing to open source and startups
 - Reading a lot, mostly on Rust. I have read the entire Rust book, Async Rust, Effective Rust, Zero to Production and Computer Design and Architecture by my namesake David!
 - Working as a DevRel at Superteam Nigeria
